@@ -29,4 +29,3 @@ Linear Regression performed on the Boombikes bike rental dataset .
 - matplotlib
 - statsmodels
 - sci-kit learn
-- numpy
